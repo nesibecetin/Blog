@@ -1,0 +1,12 @@
+C:\Users\Nesibe\source\repos\Blog\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\Nesibe\source\repos\Blog\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\Nesibe\source\repos\Blog\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\refint\Entity.dll
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\Nesibe\source\repos\Blog\Entity\obj\Debug\net5.0\ref\Entity.dll
