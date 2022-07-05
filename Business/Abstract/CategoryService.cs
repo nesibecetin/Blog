@@ -13,6 +13,6 @@ namespace Business.Abstract
         Category GetById(int id);
         List<Category> GetAll();
         void Update(Category category);
-        void Delete(int id);
+        void Delete(Category category);
     }
 }
